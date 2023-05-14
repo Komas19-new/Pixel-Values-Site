@@ -5,14 +5,38 @@
         "value":{
             "diamonds": "10B",
             "pets": "100B"
-        }
+        },
+        "rarity": "exclusive",
+        "type": "huge"
     },
     {
         "name": "PLACEHOLDER",
         "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
         "value":{
-            "diamonds": "10B",
-            "pets": "100B"
-        }
+            "diamonds": "1B",
+            "pets": "10B"
+        },
+        "rarity": "exclusive",
+        "type": "normal"
+    },
+    {
+        "name": "PLACEHOLDER",
+        "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
+        "value":{
+            "diamonds": "500M",
+            "pets": "1B"
+        },
+        "rarity": "event",
+        "type": "normal"
+    },
+    {
+        "name": "PLACEHOLDER",
+        "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
+        "value":{
+            "diamonds": "1T",
+            "pets": "10T"
+        },
+        "rarity": "exclusive",
+        "type": "titanic"
     }
 ]
