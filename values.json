@@ -1,10 +1,20 @@
 [
     {
-        "name": "PLACEHOLDER",
+        "name": "Golden Huge Easter Dominus",
         "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
         "value":{
-            "diamonds": "10B",
-            "pets": "100B"
+            "diamonds": "SOON",
+            "pets": "SOON"
+        },
+        "rarity": "exclusive",
+        "type": "huge"
+    },
+    {
+        "name": "Huge Easter Dominus",
+        "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
+        "value":{
+            "diamonds": "SOON",
+            "pets": "SOON"
         },
         "rarity": "exclusive",
         "type": "huge"
@@ -38,5 +48,15 @@
         },
         "rarity": "exclusive",
         "type": "titanic"
+    },
+    {
+        "name": "PLACEHOLDER",
+        "image": "https://pixel-values.pages.dev/cdn/PLACEHOLDER.png",
+        "value":{
+            "diamonds": "1T",
+            "pets": "10T"
+        },
+        "rarity": "exclusive",
+        "type": "gift"
     }
 ]
